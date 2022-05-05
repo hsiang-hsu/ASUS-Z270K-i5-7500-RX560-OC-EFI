@@ -30,7 +30,7 @@
 2. PlatformInfo->Generic->SystemProductName：需要修改；
 3. PlatformInfo->Generic->SystemSerialNumber：需要修改；
 4. PlatformInfo->Generic->SystemUUID：需要修改。
-5. ……
+5. …… 
 
 ## OC版本及更新日志
 
@@ -40,4 +40,4 @@
 
 ## 特别感谢
 
-1. https://github.com/danikpanik/XPS_13_9350_Monterey_Hackintosh
+1. A huge thanks to [dortania](https://dortania.github.io/OpenCore-Install-Guide/) for their incredibly detailed guide.
